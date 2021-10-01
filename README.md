@@ -9,7 +9,7 @@
 - ✍️ I share my experiences and thoughts on [my blog](https://bisser.io) and on a webinar series with my friends at [Selected Tech](https://www.selectedtech.show/)
 - 💻 I'm maintainer of [Microsoft Teams App Project Generator - #YoTeams](https://github.com/pnp/generator-teams/) 
 - 💬 Ask me about Conversational AI, Bot Framework or Microsoft 365 Development
-- 📫 You can reach me on ![Twitter](https://img.shields.io/badge/stephanbisser%20-1DA1F2?style=flat&logo=twitter&logoColor=007ACC) or [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/stephan-bisser/)
+- 📫 You can reach me on [![Twitter](https://img.shields.io/badge/stephanbisser%20-1DA1F2?style=flat&logo=twitter&logoColor=007ACC)](https://twitter.com/stephanbisser) or [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/stephan-bisser/)
 - ⚡ Fun fact: Besides tech I love Football. I'm a passionate, but already retired football player ⚽ (and no it's not called Soccer 😉)
 
 ### 🛠 &nbsp;Tech Stack
