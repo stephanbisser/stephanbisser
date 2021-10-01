@@ -5,7 +5,7 @@
 -->
 - 🔭 I’m working at [Solvion](https://www.solvion.net) as a Technical Lead
 - 🤖 I’m currently a Microsoft MVP for AI and founder/co-owner of the [Bot Builder Community](https://github.com/botbuildercommunity)
-- 📖 I’m the author of [Microsoft Conversational AI Platform for Developers](https://http://bisser.work/AIBook)
+- 📖 I’m the author of [Microsoft Conversational AI Platform for Developers](https://bisser.work/AIBook)
 - ✍️ I share my experiences and thoughts on [my blog](https://bisser.io) and on a webinar series with my friends at [Selected Tech](https://www.selectedtech.show/)
 - 💻 I'm maintainer of [Microsoft Teams App Project Generator - #YoTeams](https://github.com/pnp/generator-teams/) 
 - 💬 Ask me about Conversational AI, Bot Framework or Microsoft 365 Development
