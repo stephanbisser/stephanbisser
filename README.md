@@ -11,8 +11,7 @@
 - 💬 Ask me about Conversational AI, Bot Framework or Microsoft 365 Development
 - 📫 You can reach me on [![Twitter](https://img.shields.io/badge/stephanbisser%20-1DA1F2?style=flat&logo=twitter&logoColor=007ACC)](https://twitter.com/stephanbisser) or [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/stephan-bisser/)
 - ⚡ Fun fact: Besides tech I love Football. I'm a passionate, but already retired football player ⚽ (and no it's not called Soccer 😉)
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/stephanbisser)
+- If you like the stuff I'm doing you can also become a [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/stephanbisser)
 
 
 ### 🛠 &nbsp;Tech Stack
